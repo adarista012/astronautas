@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>246564001142-dcekf79hkhhpshibv77u1pa7efb0d342.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.246564001142-dcekf79hkhhpshibv77u1pa7efb0d342</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMw18S-cguqprqcWPT4o0gat8p3qeyOLY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>246564001142</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.antonioarista.astronautas</string>
+	<key>PROJECT_ID</key>
+	<string>tresastronautas-beb25</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tresastronautas-beb25.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:246564001142:ios:151cc36aa561a43cc19657</string>
+</dict>
+</plist>

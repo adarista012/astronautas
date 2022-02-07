@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246564001142",
+    "project_id": "tresastronautas-beb25",
+    "storage_bucket": "tresastronautas-beb25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246564001142:android:402d5340f2e29815c19657",
+        "android_client_info": {
+          "package_name": "com.antonioarista.astronautas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246564001142-o7a13d4l8mgvfden0jce62ut2ng5t8sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBsOR5nBMWG5XOv3Yj2_xz_WN5tYPqHoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246564001142-o7a13d4l8mgvfden0jce62ut2ng5t8sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
